@@ -1,0 +1,77 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "Proficient in frontend development, I specialize in crafting engaging user interfaces using HTML, CSS, and JavaScript. My focus is on creating responsive designs that enhance the user experience and bring digital products to life."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "Experienced in backend development, I excel in building robust server-side solutions using technologies like Node.js, Java, and Python. From API development to system architecture, I leverage my skills to create efficient and scalable backend systems."
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "UI & UX Design",
+      "description": "Skilled in UI/UX design principles, I have a keen eye for crafting visually appealing and user-friendly interfaces. With expertise in wireframing, prototyping, and user research techniques, I strive to create intuitive experiences that delight users."
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Software Development",
+      "description": "As a software developer, I am proficient in the end-to-end software development process. From conceptualization to deployment, I utilize my skills in HTML, CSS, JavaScript, Node.js, React, Java, and Python to develop innovative solutions that address complex challenges and meet user needs."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "HearLink",
+      "description": "HearLink is a cutting-edge communication platform designed to facilitate seamless interaction for individuals with hearing disabilities. It offers real-time sign language translation and speech recognition, revolutionizing digital communication. HearLink aims to enhance accessibility and inclusivity, empowering users with hearing impairments to engage effortlessly in meaningful conversations.",
+      "link": "https://github.com/sahanyaL/HearLink"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "ToursSL",
+      "description": "ToursSL is your gateway to unforgettable travel experiences in Sri Lanka. Discover curated tours showcasing the country's beauty and charm, from cultural expeditions to wildlife adventures and beach escapes. With seamless booking and expert guides, we ensure every journey is extraordinary. Explore Sri Lanka with ToursSL and create lasting memories",
+      "link": "https://github.com/sahanyaL/toursl.github.io"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "Shopping Manager",
+      "description": "The Shopping Manager System is a Java-based solution designed to streamline inventory management for businesses. This system offers essential functionalities such as adding, deleting, selecting, and displaying products. Built with modularity and scalability in mind, it simplifies inventory tasks, optimizing workflow efficiency for managers.",
+      "link": "https://github.com/sahanyaL/Shopping-Manager"
+    }
+  ],
+  "Testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Dianne Russel",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kristin Watson",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "McDonald's"
+    }
+  ]
+}
