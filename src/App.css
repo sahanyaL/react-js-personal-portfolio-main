@@ -70,7 +70,7 @@ p {
 
 .btn-github {
   color: var(--white);
-  background-color: var(--primary);;
+  background-color: var(--primary);
   border: var(--primary);;
   display: flex;
   flex-direction: row;
@@ -83,8 +83,8 @@ p {
 
 .btn-github2 {
   color: var(--white);
-  background-color: var(--primary);;
-  border: var(--primary);;
+  background-color: var(--primary);
+  border: var(--primary);
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -95,12 +95,12 @@ p {
 }
 
 .btn-github2:hover {
-  color: var(--primary);;
+  color: var(--primary);
   background-color: var(--white);
 }
 
 .btn-github:hover {
-  color: var(--primary);;
+  color: var(--primary);
   background-color: var(--white);
 }
 
