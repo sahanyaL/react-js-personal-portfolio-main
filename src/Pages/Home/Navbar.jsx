@@ -35,8 +35,9 @@ function Navbar() {
   return (
     <nav className={`navbar ${navActive ? "active" : ""}`}>
       <div>
-        <p>🌟 Piyumdi Liyanage</p>
-      </div>
+  <img class="logo-container" /> 
+  <p> 👩‍🎓  Piyumdi Liyanage</p> 
+</div>
       <a
         className={`nav__hamburger ${navActive ? "active" : ""}`}
         onClick={toggleNav}
