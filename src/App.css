@@ -66,10 +66,12 @@ p {
   background-color: var(--white);
 }
 
+
+
 .btn-github {
   color: var(--white);
-  background-color: var(--github);
-  border: var(--github);
+  background-color: var(--primary);;
+  border: var(--primary);;
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -81,8 +83,8 @@ p {
 
 .btn-github2 {
   color: var(--white);
-  background-color: var(--github);
-  border: var(--github);
+  background-color: var(--primary);;
+  border: var(--primary);;
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -93,14 +95,15 @@ p {
 }
 
 .btn-github2:hover {
-  color: var(--github);
+  color: var(--primary);;
   background-color: var(--white);
 }
 
 .btn-github:hover {
-  color: var(--github);
+  color: var(--primary);;
   background-color: var(--white);
 }
+
 
 .credential-link {
   text-decoration: none; /* Remove underline from the link */
@@ -779,3 +782,5 @@ input[type="checkbox"] {
   border-radius: 50%; /* This makes the image circular */
   object-fit: cover; /* This ensures the image fills the circular container */
 }
+
+
