@@ -5,10 +5,10 @@ function Footer() {
   return (
     <footer className="footer--container">
       <div className="footer--link--container">
-        <div>
-          
-          <p>🌟 Piyumdi Liyanage</p>
-        </div>
+          <div>
+      <img class="logo-container"/>
+      <p> 👩‍🎓  Piyumdi Liyanage</p> 
+    </div>
         <div className="footer--items">
           <ul>
             <li>
